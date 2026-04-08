@@ -49,7 +49,7 @@
 >
 >Для выполнения задания приведите скриншот с отображением метрик утилизации cpu из веб-интерфейса.
 ## Ответ :
-![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203-3-sql.png)
+![Иллюстрация к проекту](https://github.com/bitsl40/monitoring1/blob/main/7.png)
 
 #
 9. >Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
