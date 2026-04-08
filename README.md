@@ -44,8 +44,8 @@
     - Nagios
  ## Ответ:
  Pull-системы: 
--    Prometheus
--   Nagios
+-Prometheus
+-Nagios
 
 Push-системы:
 -TICK (Telegraf + InfluxDB) 
