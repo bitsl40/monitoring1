@@ -46,8 +46,10 @@
  Pull-системы: 
 -    Prometheus
 -   Nagios
+
 Push-системы:
 -TICK (Telegraf + InfluxDB) 
+
 Гибридные системы: 
 -Zabbix 
 -VictoriaMetrics
