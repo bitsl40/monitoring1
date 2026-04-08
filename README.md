@@ -38,7 +38,7 @@
 >P.S.: если при запуске некоторые контейнеры будут падать с ошибкой - проставьте им режим `Z`, например
 >`./data:/var/lib:Z`
 ## Ответ :
-![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203-3-sql.png)
+![Иллюстрация к проекту](https://github.com/bitsl40/monitoring1/blob/main/7.png)
 #
 8. >Перейдите в веб-интерфейс Chronograf (http://localhost:8888) и откройте вкладку Data explorer.
     >    
@@ -49,7 +49,7 @@
 >
 >Для выполнения задания приведите скриншот с отображением метрик утилизации cpu из веб-интерфейса.
 ## Ответ :
-![Иллюстрация к проекту](https://github.com/bitsl40/monitoring1/blob/main/7.png)
+![Иллюстрация к проекту](https://github.com/bitsl40/monitoring1/blob/main/8.png)
 
 #
 9. >Изучите список [telegraf inputs](https://github.com/influxdata/telegraf/tree/master/plugins/inputs). 
@@ -80,4 +80,4 @@
 >веб-интерфейсе базы telegraf.autogen . Там должны появиться метрики, связанные с docker.
 
 ## Ответ :
-![Иллюстрация к проекту](https://github.com/bitsl40/virtd-homeworks1/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%203-3-sql.png)
+![Иллюстрация к проекту](https://github.com/bitsl40/monitoring1/blob/main/9.png)
